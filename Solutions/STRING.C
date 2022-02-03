@@ -4,7 +4,7 @@
 void main()
 {
      char s1[10],s2[10];
-     clrscrf();
+     //clrscrf();
      printf("\n enter first string:");
      gets(s1);
      printf("\n enter second string:");
